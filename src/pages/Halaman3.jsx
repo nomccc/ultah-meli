@@ -14,6 +14,9 @@ const Halaman3 = () => {
       <div className='flex flex-row mt-16'>
       <img className='animate-bounce' src="img/meliglitch.jpg" width={150} alt="" />
       <img className='animate-spin' src="img/roy.jpg" width={150} alt="" />
+      <img className='animate-spin' src="img/roy.jpg" width={150} alt="" />
+      <img className='animate-spin' src="img/roy.jpg" width={150} alt="" />
+      <img className='animate-spin' src="img/roy.jpg" width={150} alt="" />
       </div>
     <div>
       <img src="img/melijempol.jpg" className='animate-pulse' width={200} alt="" />
